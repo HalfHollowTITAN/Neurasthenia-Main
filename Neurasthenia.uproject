@@ -28,7 +28,7 @@
 		},
 		{
 			"Name": "OpenVRExpansionPlugin",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "VRExpansionPlugin",
