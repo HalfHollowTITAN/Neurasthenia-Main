@@ -28,10 +28,10 @@
 		},
 		{
 			"Name": "OpenVRExpansionPlugin",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
-			"Name": "VRExpansionPlugin",
+			"Name": "OpenXRExpansionPlugin",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
@@ -41,7 +41,7 @@
 			]
 		},
 		{
-			"Name": "OpenXRExpansionPlugin",
+			"Name": "VRExpansionPlugin",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
